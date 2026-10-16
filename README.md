@@ -1,8 +1,8 @@
 # Hi, I'm Fábio Araújo 👋
 
-### Software Developer · Backend (C / Python) · Career Changer
+### Software Developer · Career Changer
 
-Former business owner turned software developer. After more than a decade running my own companies in retail, franchising and food service, I'm building a solid foundation in software engineering at **42 Porto** — an intensive, project-based, peer-to-peer program.
+Former business owner turned software developer. After more than a decade running my own companies in retail, franchising and food service, I'm now building a solid, hands-on foundation in software engineering.
 
 I bring to code what I learned running businesses: ownership, maturity in managing teams, clients and operations, and the habit of solving real problems.
 
@@ -24,9 +24,9 @@ I bring to code what I learned running businesses: ownership, maturity in managi
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-## 📚 At 42 Porto
+## 📚 Technical Foundation
 
-Project-based training with hands-on experience in:
+Hands-on, project-based training with experience in:
 
 - **C programming** — manual memory management, pointers, and reimplementing standard-library functions from scratch.
 - **Algorithms & data structures** — sorting optimization under strict constraints, with complexity (Big O) analysis.
